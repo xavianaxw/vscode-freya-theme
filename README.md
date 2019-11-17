@@ -17,12 +17,12 @@ Non X11 colors
 
 Javascript
 
-![Javascript](docs/javascript.png "Javascript")
+![Javascript](https://github.com/xavianaxw/vscode-freya-theme/blob/master/docs/javascript.png?raw=true "Javascript")
 
 SCSS
 
-![SCSS](docs/scss.png "SCSS")
+![SCSS](https://github.com/xavianaxw/vscode-freya-theme/blob/master/docs/scss.png?raw=true "SCSS")
 
 Terminal with Spaceship Prompt
 
-![Terminal](docs/terminal.png "Terminal")
+![Terminal](https://github.com/xavianaxw/vscode-freya-theme/blob/master/docs/terminal.png?raw=true "Terminal")

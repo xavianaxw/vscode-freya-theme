@@ -1,3 +1,5 @@
+This theme can be found on the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=xavianaxw.freya)
+
 ## Colors
 
 Colors are based off the X11 color names because I wanted it to match my terminal colors with `colorls`. Here's the list of colors that I've used.

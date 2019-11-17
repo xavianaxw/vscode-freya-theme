@@ -1,0 +1,46 @@
+{
+	"name": "freya",
+	"displayName": "Freya",
+	"description": "Color scheme for Visual Studio Code",
+	"version": "1.1.1",
+	"publisher": "xavianaxw",
+	"license": "ISC",
+	"author": {
+		"name": "Xavian Ang",
+		"url": "http://github.com/xavianaxw"
+	},
+	"keywords": [
+		"visual studio code",
+		"themes",
+		"color theme",
+		"theming",
+		"extension"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/xavianxw/vscode-freya.git"
+	},
+	"bugs": {
+		"url": "https://github.com/xavianaxw/vscode-freya/issues"
+	},
+	"engines": {
+		"vscode": "^1.0.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Freya Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/freya.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "f7f5834a-66c2-4d8a-9946-1e7399cbccfa",
+		"publisherDisplayName": "xavianaxw",
+		"publisherId": "d0577d18-66ce-41a5-9f43-882710f9bbaf"
+	}
+}

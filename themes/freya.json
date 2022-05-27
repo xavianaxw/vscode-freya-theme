@@ -24,7 +24,6 @@
     "editorBracketMatch.background": "#c0c0c044",
     "editorBracketMatch.border": "#708090",
     "editorCursor.foreground": "#c0c0c0",
-    "editorGroup.background": "#2a2a2a",
     "editorGroupHeader.tabsBackground": "#2a2a2a",
     "editorGutter.addedBackground": "#a7da1e",
     "editorGutter.background": "#1d1d1d",
@@ -116,7 +115,10 @@
     "terminal.ansiYellow": "#5f5582",
     "terminal.background": "#222222",
     "terminal.foreground": "#ffffff",
-    "titleBar.activeBackground": "#101012"
+    "titleBar.activeBackground": "#101012",
+    "editorBracketHighlight.foreground1": "#ffffff",
+		"editorBracketHighlight.foreground2": "#abc3db",
+    "editorBracketHighlight.foreground3": "#708090",
     //"activityBar.activeBorder": "#c0c0c0",
     //"activityBar.dropBackground": "#ffffff1f",
     //"activityBar.inactiveForeground": "#c0c0c066",
@@ -489,7 +491,6 @@
       "name": "Invalid",
       "scope": "invalid",
       "settings": {
-        "background": "#664e4d",
         "foreground": "#cf433e",
         "fontStyle": ""
       }
@@ -498,7 +499,6 @@
       "name": "Invalid deprecated",
       "scope": "invalid.deprecated",
       "settings": {
-        "background": "#664e4d",
         "foreground": "#cf433e"
       }
     },
@@ -581,7 +581,6 @@
       "name": "Function argument",
       "scope": "meta.property-name support.type.property-name",
       "settings": {
-        "fontStyle": "normal",
         "foreground": "#c0c0c0"
       }
     },
@@ -615,16 +614,14 @@
         "meta.other.inherited-class support.class.builtin"
       ],
       "settings": {
-        "foreground": "#c0c0c0",
-        "fontStyle": "normal"
+        "foreground": "#c0c0c0"
       }
     },
     {
       "name": "Function argument",
       "scope": "variable.other",
       "settings": {
-        "foreground": "#c0c0c0",
-        "fontStyle": "normal"
+        "foreground": "#c0c0c0"
       }
     },
     {

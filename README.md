@@ -32,3 +32,9 @@ SCSS
 Terminal with Spaceship Prompt
 
 ![Terminal](https://github.com/xavianaxw/vscode-freya-theme/blob/master/docs/terminal.png?raw=true "Terminal")
+
+## Changelog
+
+`[v1.1.2]` 
+
+- Added colors for VSCode bracket highlighting update

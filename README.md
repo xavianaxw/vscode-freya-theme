@@ -35,6 +35,6 @@ Terminal with Spaceship Prompt
 
 ## Changelog
 
-`[v1.1.2]` 
+`[v1.1.3]` 
 
 - Added colors for VSCode bracket highlighting update
